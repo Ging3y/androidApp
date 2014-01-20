@@ -10,5 +10,6 @@
     <string name="action_search">Search</string>
     <string name="test_button">Hello!</string>
     <string name="title_activity_say_hello">SayHello</string>
+    <string name="action_test">Hello There!</string>
 
 </resources>
